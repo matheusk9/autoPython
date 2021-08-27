@@ -3,12 +3,12 @@
 Automatizando apostas resolvidas na bet365 e inserindo em uma planilha para auxiliar na gestão de banca.
 
 Utilizo bastante a casa de apostas online 'Bet365' e tenho uma planilha onde eu insiro todas as minhas apostas para manter
-um controle de banca, tendo isso em vista, criei esse "robô" para que possa fazer isso por mim :D
+um controle de banca, tendo isso em vista, criei esse "robô" para automatizar esta tarefa...
 
 A automatização funciona basicamente assim:
-> Acessa prints/imagens tirados por mim em pontos específicos dentro da bet365;
+> Acessa pontos específicos dentro da bet365 através(consultando) prints/imagens que foram tirados e armazenados em uma pasta local ;
 
-> O 'robô' procura por essa imagem na tela e se encontrar dá um triple click selecionando o texto;
+> O 'robô' procura por essa imagem na tela e se encontrar dá um triple-click selecionando o texto;
 
 > Copia e adiciona em uma lista;
 
@@ -25,7 +25,6 @@ para que estas simples funções aconteçam.
 Principais bibliotecas  utilizadas:
 
 > Pyautogui
-
 > Pillow
 
 
