@@ -25,6 +25,7 @@ para que estas simples funções aconteçam.
 Principais bibliotecas  utilizadas:
 
 > Pyautogui
+
 > Pillow
 
 
